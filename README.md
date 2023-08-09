@@ -1,4 +1,4 @@
-# BTEMPERATURE CONVERTER
+# TEMPERATURE CONVERTER
 Web Development Project 
 
 This is a simple website for converting temperatures. I have used HTML, CSS, and JavaScript.
